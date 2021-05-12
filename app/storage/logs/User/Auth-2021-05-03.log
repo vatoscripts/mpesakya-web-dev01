@@ -1,0 +1,66 @@
+[2021-05-03 10:25:06] production.DEBUG: array (
+  'Request' => 
+  array (
+    'UserID' => 2751,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-03 10:34:53] production.DEBUG: array (
+  'Request' => 
+  array (
+    'UserID' => 2751,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-03 10:46:20] production.DEBUG: array (
+  'Request' => 
+  array (
+    'UserID' => 2751,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-03 11:43:37] production.DEBUG: array (
+  'Request' => 
+  array (
+    'UserID' => 1107,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-03 15:24:41] production.DEBUG: array (
+  'Request' => 
+  array (
+    'UserID' => 2271,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-03 15:50:48] production.DEBUG: array (
+  'Request' => 
+  array (
+    'UserID' => 2291,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  

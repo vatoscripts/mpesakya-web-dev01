@@ -1,0 +1,64 @@
+[2021-05-08 13:50:53] production.DEBUG: array (
+  'user' => '255762913923',
+  'Request' => 
+  array (
+    'UserID' => 1237,
+    'RecruiterRoleID' => 5,
+    'RecruiterPhoneNumber' => '255767844374',
+    'RecruiterNIN' => '19910313351040000224',
+    'FingerCode' => 'R1',
+  ),
+  'Response' => 
+  array (
+    'ID' => 3,
+    'Description' => 'An error occurred while making the HTTP request to https://nacer01/TZ_CIG/GatewayService.svc. This could be due to the fact that the server certificate is not configured properly with HTTP.SYS in the HTTPS case. This could also be caused by a mismatch of the security binding between the client and the server.',
+  ),
+)  
+[2021-05-08 13:51:11] production.DEBUG: array (
+  'user' => '255762913923',
+  'Request' => 
+  array (
+    'UserID' => 1237,
+    'RecruiterRoleID' => 5,
+    'RecruiterPhoneNumber' => '255767844374',
+    'RecruiterNIN' => '19910313351040000224',
+    'FingerCode' => 'R1',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-08 14:01:19] production.DEBUG: array (
+  'user' => '255762913923',
+  'Request' => 
+  array (
+    'UserID' => 1237,
+    'RecruiterRoleID' => 5,
+    'RecruiterPhoneNumber' => '255763877154',
+    'RecruiterNIN' => '19970428351080001011',
+    'FingerCode' => 'R2',
+  ),
+  'Response' => 
+  array (
+    'ID' => 4,
+    'Description' => 'Duplicate NIN',
+  ),
+)  
+[2021-05-08 14:02:28] production.DEBUG: array (
+  'user' => '255762913923',
+  'Request' => 
+  array (
+    'UserID' => 1237,
+    'RecruiterRoleID' => 5,
+    'RecruiterPhoneNumber' => '255763877154',
+    'RecruiterNIN' => '19970428351080001011',
+    'FingerCode' => 'R2',
+  ),
+  'Response' => 
+  array (
+    'ID' => 4,
+    'Description' => 'Duplicate NIN',
+  ),
+)  

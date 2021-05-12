@@ -1,0 +1,7516 @@
+[2021-05-07 09:49:25] production.DEBUG: array (
+  'user' => 'bakarn',
+  'Request' => 
+  array (
+    'UserID' => 2298,
+    'MpesaAgentID' => 37615,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 09:52:28] production.DEBUG: array (
+  'user' => 'bakarn',
+  'Request' => 
+  array (
+    'UserID' => 2298,
+    'MpesaAgentID' => 36955,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 09:55:22] production.DEBUG: array (
+  'user' => 'bakarn',
+  'Request' => 
+  array (
+    'UserID' => 2298,
+    'MpesaAgentID' => 37636,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 09:57:44] production.DEBUG: array (
+  'user' => 'bakarn',
+  'Request' => 
+  array (
+    'UserID' => 2298,
+    'MpesaAgentID' => 37634,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'NAME MISMATCH BETWEEN NIDA & M-PESA WEB',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 09:59:59] production.DEBUG: array (
+  'user' => 'bakarn',
+  'Request' => 
+  array (
+    'UserID' => 2298,
+    'MpesaAgentID' => 37637,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 10:01:39] production.DEBUG: array (
+  'user' => 'bakarn',
+  'Request' => 
+  array (
+    'UserID' => 2298,
+    'MpesaAgentID' => 37633,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 10:03:29] production.DEBUG: array (
+  'user' => 'bakarn',
+  'Request' => 
+  array (
+    'UserID' => 2298,
+    'MpesaAgentID' => 37635,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 10:05:42] production.DEBUG: array (
+  'user' => 'bakarn',
+  'Request' => 
+  array (
+    'UserID' => 2298,
+    'MpesaAgentID' => 37640,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 10:07:24] production.DEBUG: array (
+  'user' => 'bakarn',
+  'Request' => 
+  array (
+    'UserID' => 2298,
+    'MpesaAgentID' => 37643,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 10:09:19] production.DEBUG: array (
+  'user' => 'bakarn',
+  'Request' => 
+  array (
+    'UserID' => 2298,
+    'MpesaAgentID' => 37649,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'WRONG TILL NUMBER',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 10:16:11] production.DEBUG: array (
+  'user' => 'bakarn',
+  'Request' => 
+  array (
+    'UserID' => 2298,
+    'MpesaAgentID' => 37654,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 10:19:02] production.DEBUG: array (
+  'user' => 'bakarn',
+  'Request' => 
+  array (
+    'UserID' => 2298,
+    'MpesaAgentID' => 37655,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 10:21:07] production.DEBUG: array (
+  'user' => 'bakarn',
+  'Request' => 
+  array (
+    'UserID' => 2298,
+    'MpesaAgentID' => 37653,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 10:23:04] production.DEBUG: array (
+  'user' => 'bakarn',
+  'Request' => 
+  array (
+    'UserID' => 2298,
+    'MpesaAgentID' => 37652,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 10:24:16] production.DEBUG: array (
+  'user' => 'bakarn',
+  'Request' => 
+  array (
+    'UserID' => 2298,
+    'MpesaAgentID' => 37663,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 10:26:28] production.DEBUG: array (
+  'user' => 'bakarn',
+  'Request' => 
+  array (
+    'UserID' => 2298,
+    'MpesaAgentID' => 37665,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 10:29:37] production.DEBUG: array (
+  'user' => 'bakarn',
+  'Request' => 
+  array (
+    'UserID' => 2298,
+    'MpesaAgentID' => 37667,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 10:31:03] production.DEBUG: array (
+  'user' => 'bakarn',
+  'Request' => 
+  array (
+    'UserID' => 2298,
+    'MpesaAgentID' => 37671,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 11:13:16] production.DEBUG: array (
+  'user' => 'bakarn',
+  'Request' => 
+  array (
+    'UserID' => 2298,
+    'MpesaAgentID' => 37705,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 11:28:27] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37614,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'WRONG SHORT CODE',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 11:32:06] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37107,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'WRONG KYC CAPTURED (BUSINESS LICENCE)',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 11:34:42] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37618,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 11:36:55] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37611,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 11:39:07] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37612,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 11:41:33] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37613,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 11:44:32] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37753,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 11:45:18] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37617,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 11:48:32] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37623,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'ONBOARD M-PESA WAKALA NOT LIPA MERCHANT',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 11:50:45] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37619,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 11:52:02] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37769,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 11:53:44] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37620,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 11:54:36] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37771,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 11:57:18] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37621,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 11:58:12] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37774,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 12:01:34] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37776,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 12:03:14] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37624,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 12:04:29] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37782,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 12:06:25] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37625,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'WRONG TIN NUMBER',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 12:09:01] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37626,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 12:09:01] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37626,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 12:09:38] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37784,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 12:10:43] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37627,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 12:10:44] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37627,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 12:14:16] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37789,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 12:15:19] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37799,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 12:16:23] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37628,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'WRONG M-PESA MSISDN',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 12:16:36] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37797,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 12:18:12] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37629,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 12:18:12] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37629,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 12:18:42] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37801,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'ATTACH VERIFIED TIN CERTIFICATE NOT ONLINE TIN CERTIFICATE.',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 12:20:10] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37622,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 12:20:53] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37805,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 12:22:46] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37630,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 12:24:59] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37631,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 12:25:48] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37813,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 12:26:18] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37632,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 12:27:56] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37820,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 12:29:03] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37642,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 12:29:18] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37821,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 12:30:07] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37638,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'WRITE AGENT BUSINESS NAMES',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 12:30:51] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37819,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 12:31:30] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37639,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 12:32:10] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37823,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 12:33:16] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37641,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 12:34:42] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37644,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'WRONG BUSINESS LICENCE NUMBER RECORDED',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 12:34:49] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37826,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'WRONG BUSINESS LICENCE NUMBER RECORDED',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 12:36:11] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37827,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'ATTACH CORRECT BUSINESS TIN (NOT NON BUSINESS TIN)',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 12:36:12] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37645,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 12:36:44] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37829,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'NAME MISMATCH BETWEEN NIDA & M-PESA WEB',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 12:37:52] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37646,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'WRONG M-PESA MSISDN',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 12:38:07] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37832,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 12:39:06] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37647,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 12:39:25] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37831,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 12:40:56] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37648,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 12:42:28] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37841,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 12:42:59] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37650,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'WRONG SHORT CODE',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 12:43:06] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37845,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'NAME MISMATCH BETWEEN NIDA & M-PESA WEB',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 12:43:29] production.DEBUG: array (
+  'user' => 'magaa001',
+  'Request' => 
+  array (
+    'UserID' => 2296,
+    'MpesaAgentID' => 37837,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 12:44:11] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37847,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 12:44:37] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37651,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 12:45:27] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37848,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'ATTACH CORRECT BUSINESS TIN (NOT NON BUSINESS TIN)',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 12:45:43] production.DEBUG: array (
+  'user' => 'magaa001',
+  'Request' => 
+  array (
+    'UserID' => 2296,
+    'MpesaAgentID' => 37849,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 12:45:58] production.DEBUG: array (
+  'user' => 'kiteh001',
+  'Request' => 
+  array (
+    'UserID' => 2301,
+    'MpesaAgentID' => 37683,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 12:47:02] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37846,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 12:47:06] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37656,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 12:47:09] production.DEBUG: array (
+  'user' => 'kiteh001',
+  'Request' => 
+  array (
+    'UserID' => 2301,
+    'MpesaAgentID' => 37809,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 12:48:13] production.DEBUG: array (
+  'user' => 'kiteh001',
+  'Request' => 
+  array (
+    'UserID' => 2301,
+    'MpesaAgentID' => 37843,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 12:48:22] production.DEBUG: array (
+  'user' => 'magaa001',
+  'Request' => 
+  array (
+    'UserID' => 2296,
+    'MpesaAgentID' => 37851,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 12:48:49] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37850,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 12:49:31] production.DEBUG: array (
+  'user' => 'kiteh001',
+  'Request' => 
+  array (
+    'UserID' => 2301,
+    'MpesaAgentID' => 37853,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 12:49:57] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37840,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 12:50:00] production.DEBUG: array (
+  'user' => 'magaa001',
+  'Request' => 
+  array (
+    'UserID' => 2296,
+    'MpesaAgentID' => 37855,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 12:50:40] production.DEBUG: array (
+  'user' => 'kiteh001',
+  'Request' => 
+  array (
+    'UserID' => 2301,
+    'MpesaAgentID' => 37839,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'BUSINESS NAME NOT MATCH WITH MPESA WEB NAME',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 12:51:01] production.DEBUG: array (
+  'user' => 'magaa001',
+  'Request' => 
+  array (
+    'UserID' => 2296,
+    'MpesaAgentID' => 37854,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'WRONG M-PESA MSISDN',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 12:51:06] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37838,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 12:51:57] production.DEBUG: array (
+  'user' => 'kiteh001',
+  'Request' => 
+  array (
+    'UserID' => 2301,
+    'MpesaAgentID' => 37856,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 12:51:58] production.DEBUG: array (
+  'user' => 'magaa001',
+  'Request' => 
+  array (
+    'UserID' => 2296,
+    'MpesaAgentID' => 37857,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'ONBOARD M-PESA WAKALA NOT LIPA MERCHANT',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 12:53:24] production.DEBUG: array (
+  'user' => 'kiteh001',
+  'Request' => 
+  array (
+    'UserID' => 2301,
+    'MpesaAgentID' => 37834,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 12:53:24] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37657,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 12:53:26] production.DEBUG: array (
+  'user' => 'magaa001',
+  'Request' => 
+  array (
+    'UserID' => 2296,
+    'MpesaAgentID' => 37852,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 12:54:43] production.DEBUG: array (
+  'user' => 'kiteh001',
+  'Request' => 
+  array (
+    'UserID' => 2301,
+    'MpesaAgentID' => 37824,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 12:54:45] production.DEBUG: array (
+  'user' => 'magaa001',
+  'Request' => 
+  array (
+    'UserID' => 2296,
+    'MpesaAgentID' => 37859,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 12:54:49] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37836,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 12:55:20] production.DEBUG: array (
+  'user' => 'kiteh001',
+  'Request' => 
+  array (
+    'UserID' => 2301,
+    'MpesaAgentID' => 37858,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'WRONG BUSINESS NAME',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 12:56:15] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37806,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 12:56:35] production.DEBUG: array (
+  'user' => 'kiteh001',
+  'Request' => 
+  array (
+    'UserID' => 2301,
+    'MpesaAgentID' => 37835,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 12:56:37] production.DEBUG: array (
+  'user' => 'magaa001',
+  'Request' => 
+  array (
+    'UserID' => 2296,
+    'MpesaAgentID' => 37861,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'WRONG TIN NUMBER',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 12:56:49] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37658,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 12:57:47] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37860,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 12:57:57] production.DEBUG: array (
+  'user' => 'magaa001',
+  'Request' => 
+  array (
+    'UserID' => 2296,
+    'MpesaAgentID' => 37862,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'WRONG TILL NUMBER',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 12:58:02] production.DEBUG: array (
+  'user' => 'kiteh001',
+  'Request' => 
+  array (
+    'UserID' => 2301,
+    'MpesaAgentID' => 37825,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 12:59:19] production.DEBUG: array (
+  'user' => 'magaa001',
+  'Request' => 
+  array (
+    'UserID' => 2296,
+    'MpesaAgentID' => 37863,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 12:59:20] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37659,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 12:59:22] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37833,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 12:59:28] production.DEBUG: array (
+  'user' => 'kiteh001',
+  'Request' => 
+  array (
+    'UserID' => 2301,
+    'MpesaAgentID' => 37812,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 13:00:03] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37865,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'NAME MISMATCH BETWEEN NIDA & M-PESA WEB',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 13:00:42] production.DEBUG: array (
+  'user' => 'kiteh001',
+  'Request' => 
+  array (
+    'UserID' => 2301,
+    'MpesaAgentID' => 37830,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 13:00:54] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37660,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'ATTACH TIN CERTIFICATE',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 13:01:16] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37866,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 13:01:25] production.DEBUG: array (
+  'user' => 'magaa001',
+  'Request' => 
+  array (
+    'UserID' => 2296,
+    'MpesaAgentID' => 37867,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 13:01:56] production.DEBUG: array (
+  'user' => 'kiteh001',
+  'Request' => 
+  array (
+    'UserID' => 2301,
+    'MpesaAgentID' => 37842,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 13:01:58] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37870,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'NAME MISMATCH BETWEEN NIDA & M-PESA WEB',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 13:02:58] production.DEBUG: array (
+  'user' => 'magaa001',
+  'Request' => 
+  array (
+    'UserID' => 2296,
+    'MpesaAgentID' => 37871,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 13:02:59] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37661,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 13:03:10] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37868,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 13:03:36] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37828,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'NAME MISMATCH BETWEEN NIDA & M-PESA WEB',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 13:04:12] production.DEBUG: array (
+  'user' => 'kiteh001',
+  'Request' => 
+  array (
+    'UserID' => 2301,
+    'MpesaAgentID' => 37872,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 13:04:26] production.DEBUG: array (
+  'user' => 'magaa001',
+  'Request' => 
+  array (
+    'UserID' => 2296,
+    'MpesaAgentID' => 37873,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'WRONG TIN NUMBER',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 13:04:38] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37864,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 13:05:16] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37816,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'SELECT THE CORRECT M-PESA BUSINESS GROUP',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 13:05:43] production.DEBUG: array (
+  'user' => 'kiteh001',
+  'Request' => 
+  array (
+    'UserID' => 2301,
+    'MpesaAgentID' => 37874,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'FAINT BUSINESS LICENCE',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 13:06:06] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37662,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 13:06:27] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37814,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 13:06:54] production.DEBUG: array (
+  'user' => 'magaa001',
+  'Request' => 
+  array (
+    'UserID' => 2296,
+    'MpesaAgentID' => 37875,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'WRONG M-PESA MSISDN',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 13:07:16] production.DEBUG: array (
+  'user' => 'kiteh001',
+  'Request' => 
+  array (
+    'UserID' => 2301,
+    'MpesaAgentID' => 37817,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 13:07:26] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37815,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 13:07:55] production.DEBUG: array (
+  'user' => 'magaa001',
+  'Request' => 
+  array (
+    'UserID' => 2296,
+    'MpesaAgentID' => 37876,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'WRONG M-PESA MSISDN',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 13:07:58] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37664,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 13:08:21] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37811,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'WRONG M-PESA MSISDN',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 13:08:30] production.DEBUG: array (
+  'user' => 'kiteh001',
+  'Request' => 
+  array (
+    'UserID' => 2301,
+    'MpesaAgentID' => 37781,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 13:09:15] production.DEBUG: array (
+  'user' => 'magaa001',
+  'Request' => 
+  array (
+    'UserID' => 2296,
+    'MpesaAgentID' => 37822,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'ONBOARD M-PESA WAKALA NOT LIPA MERCHANT',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 13:10:01] production.DEBUG: array (
+  'user' => 'kiteh001',
+  'Request' => 
+  array (
+    'UserID' => 2301,
+    'MpesaAgentID' => 37818,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 13:11:21] production.DEBUG: array (
+  'user' => 'magaa001',
+  'Request' => 
+  array (
+    'UserID' => 2296,
+    'MpesaAgentID' => 37877,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 13:11:25] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37844,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'WRITE AGENYT FULL BUSINESS NAMES',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 13:11:25] production.DEBUG: array (
+  'user' => 'kiteh001',
+  'Request' => 
+  array (
+    'UserID' => 2301,
+    'MpesaAgentID' => 37778,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 13:11:32] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37666,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 13:12:22] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37879,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 13:13:26] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37878,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'WRONG KYC CAPTURED',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 13:13:38] production.DEBUG: array (
+  'user' => 'kiteh001',
+  'Request' => 
+  array (
+    'UserID' => 2301,
+    'MpesaAgentID' => 37783,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 13:14:31] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37883,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 13:14:54] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37670,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 13:14:57] production.DEBUG: array (
+  'user' => 'kiteh001',
+  'Request' => 
+  array (
+    'UserID' => 2301,
+    'MpesaAgentID' => 37808,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 13:15:39] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37884,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 13:16:28] production.DEBUG: array (
+  'user' => 'kiteh001',
+  'Request' => 
+  array (
+    'UserID' => 2301,
+    'MpesaAgentID' => 37772,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 13:16:38] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37807,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 13:17:13] production.DEBUG: array (
+  'user' => 'magaa001',
+  'Request' => 
+  array (
+    'UserID' => 2296,
+    'MpesaAgentID' => 37885,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 13:17:15] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37668,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 13:17:43] production.DEBUG: array (
+  'user' => 'kiteh001',
+  'Request' => 
+  array (
+    'UserID' => 2301,
+    'MpesaAgentID' => 37887,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 13:18:03] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37810,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 13:19:07] production.DEBUG: array (
+  'user' => 'kiteh001',
+  'Request' => 
+  array (
+    'UserID' => 2301,
+    'MpesaAgentID' => 37798,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 13:19:15] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37803,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 13:19:32] production.DEBUG: array (
+  'user' => 'magaa001',
+  'Request' => 
+  array (
+    'UserID' => 2296,
+    'MpesaAgentID' => 37888,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 13:20:31] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37804,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 13:20:40] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37669,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 13:21:45] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37800,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 13:21:54] production.DEBUG: array (
+  'user' => 'magaa001',
+  'Request' => 
+  array (
+    'UserID' => 2296,
+    'MpesaAgentID' => 37892,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 13:22:53] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37889,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 13:23:35] production.DEBUG: array (
+  'user' => 'magaa001',
+  'Request' => 
+  array (
+    'UserID' => 2296,
+    'MpesaAgentID' => 37893,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 13:23:42] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37672,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 13:24:06] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37890,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 13:25:04] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37795,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'WRONG SHORT CODE',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 13:25:08] production.DEBUG: array (
+  'user' => 'magaa001',
+  'Request' => 
+  array (
+    'UserID' => 2296,
+    'MpesaAgentID' => 37894,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 13:25:48] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37869,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'NAME MISMATCH BETWEEN NIDA & M-PESA WEB
+/WRONG TILL NUMBER',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 13:27:00] production.DEBUG: array (
+  'user' => 'magaa001',
+  'Request' => 
+  array (
+    'UserID' => 2296,
+    'MpesaAgentID' => 37891,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 13:27:17] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37673,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 13:27:19] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37793,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 13:28:17] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37792,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'SELECT THE CORRECT M-PESA BUSINESS GROUP',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 13:29:22] production.DEBUG: array (
+  'user' => 'magaa001',
+  'Request' => 
+  array (
+    'UserID' => 2296,
+    'MpesaAgentID' => 37796,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 13:29:33] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37788,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 13:31:21] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37790,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 13:31:47] production.DEBUG: array (
+  'user' => 'magaa001',
+  'Request' => 
+  array (
+    'UserID' => 2296,
+    'MpesaAgentID' => 37794,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 13:32:25] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37674,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 13:32:34] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37899,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 13:33:24] production.DEBUG: array (
+  'user' => 'magaa001',
+  'Request' => 
+  array (
+    'UserID' => 2296,
+    'MpesaAgentID' => 37901,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 13:33:41] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37897,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'ATTACH CORRECT BUSINESS TIN (NOT NON BUSINESS TIN)',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 13:34:10] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37675,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 13:34:48] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37904,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 13:35:56] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37676,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'WRONG KYC CAPTURED( BUSINESS LICENCE)',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 13:36:04] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37898,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 13:37:24] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37677,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 13:37:35] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37880,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 13:39:04] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37678,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'NAME MISMATCH BETWEEN NIDA & M-PESA WEB',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 13:41:17] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37913,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'WRONG KYC CAPTURED',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 13:42:22] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37914,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 13:42:40] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37679,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 13:43:31] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37912,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 13:44:33] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37916,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 13:45:14] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37918,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'SELECT THE CORRECT M-PESA BUSINESS GROUP',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 13:45:55] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37680,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 13:46:39] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37920,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 13:47:23] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37681,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 13:47:57] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37921,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 13:49:05] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37682,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'NAME MISMATCH BETWEEN NIDA & M-PESA WEB',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 13:49:18] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37923,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'WRONG BUSINESS LICENCE NUMBER RECORDED',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 13:50:20] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37915,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 13:50:31] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37684,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 13:51:21] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37927,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 13:51:48] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37928,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'NAME MISMATCH BETWEEN NIDA & M-PESA WEB',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 13:52:20] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37685,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 13:52:50] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37922,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 13:53:50] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37686,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 13:53:50] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37909,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 13:55:05] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37932,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 13:56:11] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37934,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 13:57:22] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37930,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 13:58:20] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37925,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 13:58:20] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37687,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 13:58:27] production.DEBUG: array (
+  'user' => 'magaa001',
+  'Request' => 
+  array (
+    'UserID' => 2296,
+    'MpesaAgentID' => 37935,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 13:59:26] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37937,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 14:00:15] production.DEBUG: array (
+  'user' => 'magaa001',
+  'Request' => 
+  array (
+    'UserID' => 2296,
+    'MpesaAgentID' => 37942,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 14:00:27] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37939,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'FAINT KYC',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 14:01:30] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37688,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 14:01:54] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37933,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'FAINT KYC',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 14:03:11] production.DEBUG: array (
+  'user' => 'magaa001',
+  'Request' => 
+  array (
+    'UserID' => 2296,
+    'MpesaAgentID' => 37944,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 14:03:13] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37931,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 14:04:18] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37936,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 14:04:50] production.DEBUG: array (
+  'user' => 'magaa001',
+  'Request' => 
+  array (
+    'UserID' => 2296,
+    'MpesaAgentID' => 37943,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 14:05:15] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37929,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'NAME MISMATCH BETWEEN NIDA & M-PESA WEB',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 14:06:33] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37938,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 14:06:44] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37690,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 14:07:52] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37947,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'ATTACH BRELA CERTIFICATE /WRITE AGENT BUSINESS NAMES',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 14:08:57] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37948,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 14:09:27] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37692,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 14:10:26] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37949,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'FAINT KYC',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 14:11:17] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37693,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 14:11:29] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37951,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 14:12:43] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37952,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 14:13:41] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37695,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 14:13:43] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37946,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 14:15:03] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37953,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 14:15:45] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37696,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 14:16:19] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37954,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'WRONG KYC CAPTURED',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 14:17:39] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37950,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 14:18:04] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37697,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 14:18:30] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37958,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'ONBOARD M-PESA WAKALA NOT LIPA MERCHANT',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 14:22:19] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37698,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 14:22:26] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37959,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 14:25:42] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37689,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 14:28:40] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37699,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 14:29:28] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37971,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 14:30:35] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37969,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 14:32:03] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37972,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'FAINT KYC',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 14:32:42] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37691,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 14:33:19] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37975,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'FAINT KYC',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 14:34:38] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37970,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 14:35:40] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37977,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 14:36:55] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37979,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 14:37:37] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37694,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 14:38:08] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37982,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 14:38:54] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37983,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'WRONG TILL NUMBER',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 14:39:59] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37984,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 14:41:09] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37987,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 14:42:13] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37986,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 14:43:13] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37985,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 14:44:14] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37981,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 14:45:23] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37978,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 14:45:30] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37700,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 14:46:41] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37976,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 14:47:35] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37991,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 14:48:32] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37701,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 14:49:42] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37988,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 14:51:52] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37993,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 14:52:57] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37702,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 14:53:08] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37992,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 14:54:21] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37967,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 14:55:37] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37994,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 14:56:13] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37703,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 14:56:53] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37999,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 14:58:15] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37997,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 14:58:42] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37704,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'WRONG SHORT CODE',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 14:59:10] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 38001,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'NAME MISMATCH BETWEEN NIDA & M-PESA WEB',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 15:00:46] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 38002,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'ATTACH CORRECT BUSINESS TIN (NOT NON BUSINESS TIN)',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 15:00:52] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37706,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 15:03:25] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37707,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 15:03:58] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 38006,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'WRONG TIN NUMBER',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 15:04:28] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 38007,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'SELECT THE CORRECT M-PESA BUSINESS GROUP',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 15:05:29] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 38004,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 15:06:07] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 38003,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'SELECT THE CORRECT M-PESA BUSINESS GROUP',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 15:07:18] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37708,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 15:07:24] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 38008,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'ATTACH VERIFIED TIN CERTIFICATE NOT ONLINE TIN CERTIFICATE.',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 15:08:12] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 38009,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'WRONG SHORT CODE',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 15:09:26] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37998,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 15:11:12] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 38012,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 15:12:24] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37980,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 15:13:31] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 38017,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 15:14:19] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37709,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 15:14:34] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 38019,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 15:15:32] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 38014,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 15:16:43] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 38015,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'ATTACH CORRECT BUSINESS TIN (NOT NON BUSINESS TIN)',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 15:17:32] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 38010,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'NAME MISMATCH BETWEEN NIDA & M-PESA WEB',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 15:17:56] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37710,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'WRONG TILL NUMBER',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 15:18:43] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 38011,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 15:19:33] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 38018,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 15:20:34] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 38023,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'WRONG M-PESA MSISDN',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 15:21:44] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37711,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 15:21:50] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 38021,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 15:22:56] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37989,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 15:24:09] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 38026,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 15:24:51] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 38024,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'NAME MISMATCH BETWEEN NIDA & M-PESA WEB',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 15:26:33] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 38027,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 15:27:08] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37712,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 15:27:44] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37956,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 15:28:56] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 37996,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 15:30:01] production.DEBUG: array (
+  'user' => 'danielt',
+  'Request' => 
+  array (
+    'UserID' => 2294,
+    'MpesaAgentID' => 38028,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 15:30:37] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37713,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 15:34:44] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37715,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 15:41:37] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37716,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 15:46:18] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37717,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 15:47:57] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37718,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'WRONG TIN NUMBER',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 15:53:12] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37719,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 17:41:47] production.DEBUG: array (
+  'user' => 'magaa001',
+  'Request' => 
+  array (
+    'UserID' => 2296,
+    'MpesaAgentID' => 38106,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 17:46:03] production.DEBUG: array (
+  'user' => 'magaa001',
+  'Request' => 
+  array (
+    'UserID' => 2296,
+    'MpesaAgentID' => 38105,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 17:47:29] production.DEBUG: array (
+  'user' => 'magaa001',
+  'Request' => 
+  array (
+    'UserID' => 2296,
+    'MpesaAgentID' => 38104,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 17:47:32] production.DEBUG: array (
+  'user' => 'bakarn',
+  'Request' => 
+  array (
+    'UserID' => 2298,
+    'MpesaAgentID' => 37714,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'WRONG TILL NUMBER',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 17:49:17] production.DEBUG: array (
+  'user' => 'bakarn',
+  'Request' => 
+  array (
+    'UserID' => 2298,
+    'MpesaAgentID' => 38100,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'ATTACH BUSINESS TIN (NOT NON BUSINESS TIN)',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 17:49:44] production.DEBUG: array (
+  'user' => 'magaa001',
+  'Request' => 
+  array (
+    'UserID' => 2296,
+    'MpesaAgentID' => 38101,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 17:50:28] production.DEBUG: array (
+  'user' => 'bakarn',
+  'Request' => 
+  array (
+    'UserID' => 2298,
+    'MpesaAgentID' => 38097,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 17:51:50] production.DEBUG: array (
+  'user' => 'bakarn',
+  'Request' => 
+  array (
+    'UserID' => 2298,
+    'MpesaAgentID' => 37924,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 17:52:12] production.DEBUG: array (
+  'user' => 'magaa001',
+  'Request' => 
+  array (
+    'UserID' => 2296,
+    'MpesaAgentID' => 38099,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 17:53:06] production.DEBUG: array (
+  'user' => 'bakarn',
+  'Request' => 
+  array (
+    'UserID' => 2298,
+    'MpesaAgentID' => 38095,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'WRONG M-PESA MSISDN',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 17:54:02] production.DEBUG: array (
+  'user' => 'magaa001',
+  'Request' => 
+  array (
+    'UserID' => 2296,
+    'MpesaAgentID' => 38096,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 17:54:03] production.DEBUG: array (
+  'user' => 'bakarn',
+  'Request' => 
+  array (
+    'UserID' => 2298,
+    'MpesaAgentID' => 38092,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 17:55:37] production.DEBUG: array (
+  'user' => 'bakarn',
+  'Request' => 
+  array (
+    'UserID' => 2298,
+    'MpesaAgentID' => 37960,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 17:56:36] production.DEBUG: array (
+  'user' => 'bakarn',
+  'Request' => 
+  array (
+    'UserID' => 2298,
+    'MpesaAgentID' => 38091,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 17:58:11] production.DEBUG: array (
+  'user' => 'bakarn',
+  'Request' => 
+  array (
+    'UserID' => 2298,
+    'MpesaAgentID' => 38088,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 17:58:31] production.DEBUG: array (
+  'user' => 'magaa001',
+  'Request' => 
+  array (
+    'UserID' => 2296,
+    'MpesaAgentID' => 38094,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 17:59:35] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37720,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 18:00:09] production.DEBUG: array (
+  'user' => 'magaa001',
+  'Request' => 
+  array (
+    'UserID' => 2296,
+    'MpesaAgentID' => 38090,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 18:00:57] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37721,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 18:02:15] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37722,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 18:03:53] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37723,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 18:05:18] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37724,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'WRONG SHORT CODE',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 18:06:08] production.DEBUG: array (
+  'user' => 'magaa001',
+  'Request' => 
+  array (
+    'UserID' => 2296,
+    'MpesaAgentID' => 38089,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 18:06:31] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37725,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 18:06:35] production.DEBUG: array (
+  'user' => 'bakarn',
+  'Request' => 
+  array (
+    'UserID' => 2298,
+    'MpesaAgentID' => 37726,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 18:07:00] production.DEBUG: array (
+  'user' => 'magaa001',
+  'Request' => 
+  array (
+    'UserID' => 2296,
+    'MpesaAgentID' => 38087,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'WRONG M-PESA MSISDN',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 18:07:57] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37732,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 18:08:14] production.DEBUG: array (
+  'user' => 'bakarn',
+  'Request' => 
+  array (
+    'UserID' => 2298,
+    'MpesaAgentID' => 38083,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 18:09:04] production.DEBUG: array (
+  'user' => 'magaa001',
+  'Request' => 
+  array (
+    'UserID' => 2296,
+    'MpesaAgentID' => 38102,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 18:09:17] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37727,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 18:09:44] production.DEBUG: array (
+  'user' => 'bakarn',
+  'Request' => 
+  array (
+    'UserID' => 2298,
+    'MpesaAgentID' => 38085,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 18:10:32] production.DEBUG: array (
+  'user' => 'magaa001',
+  'Request' => 
+  array (
+    'UserID' => 2296,
+    'MpesaAgentID' => 38082,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 18:10:53] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37728,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 18:10:56] production.DEBUG: array (
+  'user' => 'bakarn',
+  'Request' => 
+  array (
+    'UserID' => 2298,
+    'MpesaAgentID' => 37767,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 18:12:12] production.DEBUG: array (
+  'user' => 'magaa001',
+  'Request' => 
+  array (
+    'UserID' => 2296,
+    'MpesaAgentID' => 38081,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 18:12:17] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37729,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 18:12:27] production.DEBUG: array (
+  'user' => 'bakarn',
+  'Request' => 
+  array (
+    'UserID' => 2298,
+    'MpesaAgentID' => 38079,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'NAME MISMATCH BETWEEN NIDA & M-PESA WEB',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 18:13:51] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37730,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 18:14:13] production.DEBUG: array (
+  'user' => 'bakarn',
+  'Request' => 
+  array (
+    'UserID' => 2298,
+    'MpesaAgentID' => 38005,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 18:15:14] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37731,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 18:15:28] production.DEBUG: array (
+  'user' => 'magaa001',
+  'Request' => 
+  array (
+    'UserID' => 2296,
+    'MpesaAgentID' => 38098,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 18:16:24] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37733,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 18:16:49] production.DEBUG: array (
+  'user' => 'magaa001',
+  'Request' => 
+  array (
+    'UserID' => 2296,
+    'MpesaAgentID' => 38093,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 18:17:28] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37747,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'SELECT THE CORRECT M-PESA BUSINESS GROUP',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 18:18:32] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37746,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 18:19:19] production.DEBUG: array (
+  'user' => 'magaa001',
+  'Request' => 
+  array (
+    'UserID' => 2296,
+    'MpesaAgentID' => 38078,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 18:19:55] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37745,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 18:20:33] production.DEBUG: array (
+  'user' => 'bakarn',
+  'Request' => 
+  array (
+    'UserID' => 2298,
+    'MpesaAgentID' => 38076,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 18:21:33] production.DEBUG: array (
+  'user' => 'magaa001',
+  'Request' => 
+  array (
+    'UserID' => 2296,
+    'MpesaAgentID' => 38075,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 18:22:02] production.DEBUG: array (
+  'user' => 'bakarn',
+  'Request' => 
+  array (
+    'UserID' => 2298,
+    'MpesaAgentID' => 38074,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 18:22:12] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37742,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 18:23:07] production.DEBUG: array (
+  'user' => 'magaa001',
+  'Request' => 
+  array (
+    'UserID' => 2296,
+    'MpesaAgentID' => 38073,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 18:23:27] production.DEBUG: array (
+  'user' => 'bakarn',
+  'Request' => 
+  array (
+    'UserID' => 2298,
+    'MpesaAgentID' => 37968,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 18:23:30] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37741,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'INSERT CONTACT NAME NOT CONTACT NUMBER',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 18:24:50] production.DEBUG: array (
+  'user' => 'bakarn',
+  'Request' => 
+  array (
+    'UserID' => 2298,
+    'MpesaAgentID' => 38070,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 18:25:01] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37740,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 18:25:10] production.DEBUG: array (
+  'user' => 'magaa001',
+  'Request' => 
+  array (
+    'UserID' => 2296,
+    'MpesaAgentID' => 38072,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 18:26:16] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37739,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 18:27:00] production.DEBUG: array (
+  'user' => 'magaa001',
+  'Request' => 
+  array (
+    'UserID' => 2296,
+    'MpesaAgentID' => 38071,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 18:27:28] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37738,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 18:27:32] production.DEBUG: array (
+  'user' => 'bakarn',
+  'Request' => 
+  array (
+    'UserID' => 2298,
+    'MpesaAgentID' => 38065,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 18:28:32] production.DEBUG: array (
+  'user' => 'magaa001',
+  'Request' => 
+  array (
+    'UserID' => 2296,
+    'MpesaAgentID' => 38086,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'WRONG BUSINESS LICENCE NUMBER RECORDED',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 18:28:36] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37737,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 18:29:10] production.DEBUG: array (
+  'user' => 'bakarn',
+  'Request' => 
+  array (
+    'UserID' => 2298,
+    'MpesaAgentID' => 37905,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 18:29:54] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37736,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 18:30:54] production.DEBUG: array (
+  'user' => 'magaa001',
+  'Request' => 
+  array (
+    'UserID' => 2296,
+    'MpesaAgentID' => 38068,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 18:31:41] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37735,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'WRITE AGENT BUSINESS NAMES, SELECT THE CORRECT M-PESA BUSINESS GROUP',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 18:32:41] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37734,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'INSERT CONTACT NAME NOT CONTACT NUMBER',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 18:32:48] production.DEBUG: array (
+  'user' => 'magaa001',
+  'Request' => 
+  array (
+    'UserID' => 2296,
+    'MpesaAgentID' => 38067,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'WRONG SHORT CODE',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 18:33:38] production.DEBUG: array (
+  'user' => 'bakarn',
+  'Request' => 
+  array (
+    'UserID' => 2298,
+    'MpesaAgentID' => 38064,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'WRONG BUSINESS LICENCE NUMBER RECORDED',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 18:34:25] production.DEBUG: array (
+  'user' => 'magaa001',
+  'Request' => 
+  array (
+    'UserID' => 2296,
+    'MpesaAgentID' => 38066,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 18:34:30] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37770,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 18:35:05] production.DEBUG: array (
+  'user' => 'bakarn',
+  'Request' => 
+  array (
+    'UserID' => 2298,
+    'MpesaAgentID' => 38033,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 18:35:44] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37768,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 18:36:35] production.DEBUG: array (
+  'user' => 'magaa001',
+  'Request' => 
+  array (
+    'UserID' => 2296,
+    'MpesaAgentID' => 38107,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 18:37:04] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37766,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'WRONG SHORT CODE',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 18:37:38] production.DEBUG: array (
+  'user' => 'bakarn',
+  'Request' => 
+  array (
+    'UserID' => 2298,
+    'MpesaAgentID' => 38062,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 18:38:18] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37765,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 18:38:30] production.DEBUG: array (
+  'user' => 'bakarn',
+  'Request' => 
+  array (
+    'UserID' => 2298,
+    'MpesaAgentID' => 38060,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 18:39:27] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37764,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 18:39:30] production.DEBUG: array (
+  'user' => 'bakarn',
+  'Request' => 
+  array (
+    'UserID' => 2298,
+    'MpesaAgentID' => 38061,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 18:39:55] production.DEBUG: array (
+  'user' => 'magaa001',
+  'Request' => 
+  array (
+    'UserID' => 2296,
+    'MpesaAgentID' => 38063,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 18:40:33] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37763,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 18:40:37] production.DEBUG: array (
+  'user' => 'bakarn',
+  'Request' => 
+  array (
+    'UserID' => 2298,
+    'MpesaAgentID' => 38029,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 18:41:47] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37762,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 18:41:55] production.DEBUG: array (
+  'user' => 'bakarn',
+  'Request' => 
+  array (
+    'UserID' => 2298,
+    'MpesaAgentID' => 38058,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 18:42:07] production.DEBUG: array (
+  'user' => 'magaa001',
+  'Request' => 
+  array (
+    'UserID' => 2296,
+    'MpesaAgentID' => 38077,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 18:43:09] production.DEBUG: array (
+  'user' => 'bakarn',
+  'Request' => 
+  array (
+    'UserID' => 2298,
+    'MpesaAgentID' => 38057,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 18:43:16] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37761,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 18:43:59] production.DEBUG: array (
+  'user' => 'magaa001',
+  'Request' => 
+  array (
+    'UserID' => 2296,
+    'MpesaAgentID' => 38059,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 18:44:35] production.DEBUG: array (
+  'user' => 'bakarn',
+  'Request' => 
+  array (
+    'UserID' => 2298,
+    'MpesaAgentID' => 37966,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'WRONG TILL NUMBER',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 18:44:38] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37760,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'WRONG M-PESA MSISDN',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 18:45:45] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37759,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'ATTACH CORRECT BUSINESS TIN (NOT NON BUSINESS TIN)',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 18:45:53] production.DEBUG: array (
+  'user' => 'magaa001',
+  'Request' => 
+  array (
+    'UserID' => 2296,
+    'MpesaAgentID' => 38055,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'WRONG M-PESA MSISDN',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 18:46:55] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37758,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 18:47:15] production.DEBUG: array (
+  'user' => 'magaa001',
+  'Request' => 
+  array (
+    'UserID' => 2296,
+    'MpesaAgentID' => 38054,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 18:47:57] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37757,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'NAME MISMATCH BETWEEN NIDA & M-PESA WEB',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 18:49:07] production.DEBUG: array (
+  'user' => 'bakarn',
+  'Request' => 
+  array (
+    'UserID' => 2298,
+    'MpesaAgentID' => 38052,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 18:49:08] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37756,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 18:50:31] production.DEBUG: array (
+  'user' => 'bakarn',
+  'Request' => 
+  array (
+    'UserID' => 2298,
+    'MpesaAgentID' => 37974,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 18:50:56] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37755,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'WRONG KYC CAPTURED (TIN CERTIFICATE)',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 18:51:11] production.DEBUG: array (
+  'user' => 'magaa001',
+  'Request' => 
+  array (
+    'UserID' => 2296,
+    'MpesaAgentID' => 38053,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 18:51:49] production.DEBUG: array (
+  'user' => 'bakarn',
+  'Request' => 
+  array (
+    'UserID' => 2298,
+    'MpesaAgentID' => 38046,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 18:52:16] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37754,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 18:52:38] production.DEBUG: array (
+  'user' => 'magaa001',
+  'Request' => 
+  array (
+    'UserID' => 2296,
+    'MpesaAgentID' => 38049,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 18:53:25] production.DEBUG: array (
+  'user' => 'bakarn',
+  'Request' => 
+  array (
+    'UserID' => 2298,
+    'MpesaAgentID' => 38045,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 18:53:36] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37752,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 18:54:46] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37751,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 18:54:46] production.DEBUG: array (
+  'user' => 'bakarn',
+  'Request' => 
+  array (
+    'UserID' => 2298,
+    'MpesaAgentID' => 37940,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 18:54:53] production.DEBUG: array (
+  'user' => 'magaa001',
+  'Request' => 
+  array (
+    'UserID' => 2296,
+    'MpesaAgentID' => 38048,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 18:56:36] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37750,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 18:57:58] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37749,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 18:58:08] production.DEBUG: array (
+  'user' => 'bakarn',
+  'Request' => 
+  array (
+    'UserID' => 2298,
+    'MpesaAgentID' => 37955,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 18:59:17] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37748,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'WRITE AGENT BUSINESS NAMES, INSERT CONTACT NAME NOT CONTACT NUMBER',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 18:59:24] production.DEBUG: array (
+  'user' => 'bakarn',
+  'Request' => 
+  array (
+    'UserID' => 2298,
+    'MpesaAgentID' => 37957,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'WRONG SHORT CODE',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 18:59:38] production.DEBUG: array (
+  'user' => 'magaa001',
+  'Request' => 
+  array (
+    'UserID' => 2296,
+    'MpesaAgentID' => 38044,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 19:00:17] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37744,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'NAME MISMATCH BETWEEN NIDA & M-PESA WEB',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 19:00:42] production.DEBUG: array (
+  'user' => 'bakarn',
+  'Request' => 
+  array (
+    'UserID' => 2298,
+    'MpesaAgentID' => 38039,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 19:01:58] production.DEBUG: array (
+  'user' => 'bakarn',
+  'Request' => 
+  array (
+    'UserID' => 2298,
+    'MpesaAgentID' => 38041,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 19:02:05] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37743,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'WRONG TIN NUMBER',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 19:02:13] production.DEBUG: array (
+  'user' => 'magaa001',
+  'Request' => 
+  array (
+    'UserID' => 2296,
+    'MpesaAgentID' => 38043,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 19:03:02] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37616,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'WRONG SHORT CODE',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 19:03:39] production.DEBUG: array (
+  'user' => 'bakarn',
+  'Request' => 
+  array (
+    'UserID' => 2298,
+    'MpesaAgentID' => 37910,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 19:04:21] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37780,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 19:04:21] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37780,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 19:04:36] production.DEBUG: array (
+  'user' => 'magaa001',
+  'Request' => 
+  array (
+    'UserID' => 2296,
+    'MpesaAgentID' => 38040,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 19:05:27] production.DEBUG: array (
+  'user' => 'bakarn',
+  'Request' => 
+  array (
+    'UserID' => 2298,
+    'MpesaAgentID' => 38031,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 19:05:44] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37779,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 19:06:13] production.DEBUG: array (
+  'user' => 'magaa001',
+  'Request' => 
+  array (
+    'UserID' => 2296,
+    'MpesaAgentID' => 38056,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 19:06:42] production.DEBUG: array (
+  'user' => 'bakarn',
+  'Request' => 
+  array (
+    'UserID' => 2298,
+    'MpesaAgentID' => 37903,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'NAME MISMATCH BETWEEN NIDA & M-PESA WEB',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 19:07:10] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37777,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 19:08:14] production.DEBUG: array (
+  'user' => 'bakarn',
+  'Request' => 
+  array (
+    'UserID' => 2298,
+    'MpesaAgentID' => 38016,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'ONBOARD M-PESA WAKALA NOT LIPA MERCHANT',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 19:08:33] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37775,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 19:09:02] production.DEBUG: array (
+  'user' => 'magaa001',
+  'Request' => 
+  array (
+    'UserID' => 2296,
+    'MpesaAgentID' => 38110,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 19:09:44] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37773,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 19:09:54] production.DEBUG: array (
+  'user' => 'bakarn',
+  'Request' => 
+  array (
+    'UserID' => 2298,
+    'MpesaAgentID' => 38022,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'WRONG BUSINESS LICENCE NUMBER RECORDED',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 19:10:48] production.DEBUG: array (
+  'user' => 'magaa001',
+  'Request' => 
+  array (
+    'UserID' => 2296,
+    'MpesaAgentID' => 38036,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 19:11:33] production.DEBUG: array (
+  'user' => 'bakarn',
+  'Request' => 
+  array (
+    'UserID' => 2298,
+    'MpesaAgentID' => 38069,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 19:12:11] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37802,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'WRITE AGENT MPESA CONTACT NAMES',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 19:13:25] production.DEBUG: array (
+  'user' => 'magaa001',
+  'Request' => 
+  array (
+    'UserID' => 2296,
+    'MpesaAgentID' => 38050,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 19:13:38] production.DEBUG: array (
+  'user' => 'bakarn',
+  'Request' => 
+  array (
+    'UserID' => 2298,
+    'MpesaAgentID' => 37895,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 19:14:46] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37791,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 19:15:05] production.DEBUG: array (
+  'user' => 'magaa001',
+  'Request' => 
+  array (
+    'UserID' => 2296,
+    'MpesaAgentID' => 38108,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 19:15:38] production.DEBUG: array (
+  'user' => 'bakarn',
+  'Request' => 
+  array (
+    'UserID' => 2298,
+    'MpesaAgentID' => 38032,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 19:15:55] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37787,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 19:16:37] production.DEBUG: array (
+  'user' => 'magaa001',
+  'Request' => 
+  array (
+    'UserID' => 2296,
+    'MpesaAgentID' => 38035,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 19:17:08] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37786,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 19:17:20] production.DEBUG: array (
+  'user' => 'bakarn',
+  'Request' => 
+  array (
+    'UserID' => 2298,
+    'MpesaAgentID' => 38020,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'ATTACH BUSINESS TIN (NOT NON BUSINESS TIN)',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 19:17:57] production.DEBUG: array (
+  'user' => 'magaa001',
+  'Request' => 
+  array (
+    'UserID' => 2296,
+    'MpesaAgentID' => 38030,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 19:18:27] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37881,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 19:19:30] production.DEBUG: array (
+  'user' => 'magaa001',
+  'Request' => 
+  array (
+    'UserID' => 2296,
+    'MpesaAgentID' => 38047,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'ATTACH TIN CERTIFICATE',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 19:19:35] production.DEBUG: array (
+  'user' => 'bakarn',
+  'Request' => 
+  array (
+    'UserID' => 2298,
+    'MpesaAgentID' => 37962,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'WRONG BUSINESS LICENCE NUMBER RECORDED',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 19:20:03] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37785,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'NAME MISMATCH BETWEEN NIDA & M-PESA WEB',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 19:21:28] production.DEBUG: array (
+  'user' => 'magaa001',
+  'Request' => 
+  array (
+    'UserID' => 2296,
+    'MpesaAgentID' => 38042,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 19:21:29] production.DEBUG: array (
+  'user' => 'bakarn',
+  'Request' => 
+  array (
+    'UserID' => 2298,
+    'MpesaAgentID' => 37961,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 19:21:38] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37926,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 19:22:56] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37906,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 19:23:07] production.DEBUG: array (
+  'user' => 'magaa001',
+  'Request' => 
+  array (
+    'UserID' => 2296,
+    'MpesaAgentID' => 38000,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 19:23:43] production.DEBUG: array (
+  'user' => 'bakarn',
+  'Request' => 
+  array (
+    'UserID' => 2298,
+    'MpesaAgentID' => 37965,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 19:24:03] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37911,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 19:24:47] production.DEBUG: array (
+  'user' => 'magaa001',
+  'Request' => 
+  array (
+    'UserID' => 2296,
+    'MpesaAgentID' => 37995,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'WRONG TIN NUMBER',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 19:24:57] production.DEBUG: array (
+  'user' => 'bakarn',
+  'Request' => 
+  array (
+    'UserID' => 2298,
+    'MpesaAgentID' => 37990,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 19:25:08] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37896,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'WRONG TILL NUMBER',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 19:26:02] production.DEBUG: array (
+  'user' => 'bakarn',
+  'Request' => 
+  array (
+    'UserID' => 2298,
+    'MpesaAgentID' => 37963,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'WRONG SHORT CODE',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 19:26:08] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37908,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 19:26:20] production.DEBUG: array (
+  'user' => 'magaa001',
+  'Request' => 
+  array (
+    'UserID' => 2296,
+    'MpesaAgentID' => 37973,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 19:27:16] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37900,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'WRONG TILL NUMBER',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 19:27:56] production.DEBUG: array (
+  'user' => 'bakarn',
+  'Request' => 
+  array (
+    'UserID' => 2298,
+    'MpesaAgentID' => 37907,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 19:28:33] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37919,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 19:28:36] production.DEBUG: array (
+  'user' => 'magaa001',
+  'Request' => 
+  array (
+    'UserID' => 2296,
+    'MpesaAgentID' => 38038,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 19:30:07] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37917,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 19:30:14] production.DEBUG: array (
+  'user' => 'magaa001',
+  'Request' => 
+  array (
+    'UserID' => 2296,
+    'MpesaAgentID' => 37945,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 19:31:49] production.DEBUG: array (
+  'user' => 'magaa001',
+  'Request' => 
+  array (
+    'UserID' => 2296,
+    'MpesaAgentID' => 38037,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 19:32:20] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 37941,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'WRONG BUSINESS LICENCE NUMBER RECORDED',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 19:33:27] production.DEBUG: array (
+  'user' => 'bakarn',
+  'Request' => 
+  array (
+    'UserID' => 2298,
+    'MpesaAgentID' => 37964,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 19:33:47] production.DEBUG: array (
+  'user' => 'magaa001',
+  'Request' => 
+  array (
+    'UserID' => 2296,
+    'MpesaAgentID' => 37886,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 19:33:50] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 38084,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 19:35:47] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 38103,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'INSERT CONTACT NAME NOT CONTACT NUMBER',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 19:36:47] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 38034,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'WRONG M-PESA MSISDN',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 19:37:02] production.DEBUG: array (
+  'user' => 'bakarn',
+  'Request' => 
+  array (
+    'UserID' => 2298,
+    'MpesaAgentID' => 36980,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'WRONG TILL NUMBER',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 19:38:02] production.DEBUG: array (
+  'user' => 'shirv001',
+  'Request' => 
+  array (
+    'UserID' => 2295,
+    'MpesaAgentID' => 38109,
+    'VerificationStatus' => 3,
+    'RejectComment' => 'ATTACH TIN CERTIFICATE',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  

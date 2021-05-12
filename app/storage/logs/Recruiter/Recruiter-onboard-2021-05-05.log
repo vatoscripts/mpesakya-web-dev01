@@ -1,0 +1,16 @@
+[2021-05-05 12:01:14] production.DEBUG: array (
+  'user' => '255743108919',
+  'Request' => 
+  array (
+    'UserID' => 1182,
+    'RecruiterRoleID' => 5,
+    'RecruiterPhoneNumber' => '255768269605',
+    'RecruiterNIN' => '19961125161100000221',
+    'FingerCode' => 'L1',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  

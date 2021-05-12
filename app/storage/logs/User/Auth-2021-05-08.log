@@ -1,0 +1,33 @@
+[2021-05-08 10:16:10] production.DEBUG: array (
+  'Request' => 
+  array (
+    'UserID' => 3002,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-08 13:52:00] production.DEBUG: array (
+  'Request' => 
+  array (
+    'UserID' => 1237,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-08 14:03:53] production.DEBUG: array (
+  'Request' => 
+  array (
+    'UserID' => 1237,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  

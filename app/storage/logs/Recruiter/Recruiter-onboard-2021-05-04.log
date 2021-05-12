@@ -1,0 +1,64 @@
+[2021-05-04 08:32:17] production.DEBUG: array (
+  'user' => '255764453322',
+  'Request' => 
+  array (
+    'UserID' => 2531,
+    'RecruiterRoleID' => 5,
+    'RecruiterPhoneNumber' => '255743896318',
+    'RecruiterNIN' => '19901122251030000123',
+    'FingerCode' => 'R1',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-04 09:14:26] production.DEBUG: array (
+  'user' => '255764453322',
+  'Request' => 
+  array (
+    'UserID' => 2531,
+    'RecruiterRoleID' => 5,
+    'RecruiterPhoneNumber' => '255757573578',
+    'RecruiterNIN' => '19971123252150000224',
+    'FingerCode' => 'R1',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-04 15:54:47] production.DEBUG: array (
+  'user' => '255762913923',
+  'Request' => 
+  array (
+    'UserID' => 1237,
+    'RecruiterRoleID' => 5,
+    'RecruiterPhoneNumber' => '255767288300',
+    'RecruiterNIN' => '19901025351080000420',
+    'FingerCode' => 'R1',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-04 19:13:14] production.DEBUG: array (
+  'user' => '255755930346',
+  'Request' => 
+  array (
+    'UserID' => 2271,
+    'RecruiterRoleID' => 5,
+    'RecruiterPhoneNumber' => '255754711321',
+    'RecruiterNIN' => '19860129141210000122',
+    'FingerCode' => 'R1',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  

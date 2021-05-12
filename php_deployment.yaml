@@ -1,0 +1,39 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: php
+  labels:
+    tier: backend
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      app: php
+      tier: backend
+  template:
+    metadata:
+      labels:
+        app: php
+        tier: backend
+    spec:
+      volumes:
+      - name: dir
+        hostPath:
+          path: /sorc
+      containers:
+      - name: php
+        image: kiyange26773/mpesakya-web-dev:latest
+        volumeMounts:
+        - name: dir
+          mountPath: /sorc
+      initContainers:
+      - name: install
+        image: busybox
+        volumeMounts:
+        - name: dir
+          mountPath: /sorc
+        command:
+        - cp
+        - "-r"
+        - "/var/www/."
+        - "/sorc/app"

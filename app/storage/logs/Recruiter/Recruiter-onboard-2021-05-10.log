@@ -1,0 +1,96 @@
+[2021-05-10 08:55:34] production.DEBUG: array (
+  'user' => '255744531783',
+  'Request' => 
+  array (
+    'UserID' => 2751,
+    'RecruiterRoleID' => 5,
+    'RecruiterPhoneNumber' => '255756340225',
+    'RecruiterNIN' => '19910208251210000120',
+    'FingerCode' => 'R1',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-10 10:23:34] production.DEBUG: array (
+  'user' => '255744531783',
+  'Request' => 
+  array (
+    'UserID' => 2751,
+    'RecruiterRoleID' => 5,
+    'RecruiterPhoneNumber' => '255759444272',
+    'RecruiterNIN' => '19930129393360000121',
+    'FingerCode' => 'R1',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-10 11:41:26] production.DEBUG: array (
+  'user' => '255744531783',
+  'Request' => 
+  array (
+    'UserID' => 2751,
+    'RecruiterRoleID' => 5,
+    'RecruiterPhoneNumber' => '255766753426',
+    'RecruiterNIN' => '19880303355010000118',
+    'FingerCode' => 'R1',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-10 12:14:32] production.DEBUG: array (
+  'user' => '255744531783',
+  'Request' => 
+  array (
+    'UserID' => 2751,
+    'RecruiterRoleID' => 5,
+    'RecruiterPhoneNumber' => '255769842445',
+    'RecruiterNIN' => '19910807121040000221',
+    'FingerCode' => 'R1',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-10 12:16:03] production.DEBUG: array (
+  'user' => '255744531783',
+  'Request' => 
+  array (
+    'UserID' => 2751,
+    'RecruiterRoleID' => 5,
+    'RecruiterPhoneNumber' => '255744210455',
+    'RecruiterNIN' => '20001209431020000116',
+    'FingerCode' => 'R1',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-10 12:23:07] production.DEBUG: array (
+  'user' => '255744531783',
+  'Request' => 
+  array (
+    'UserID' => 2751,
+    'RecruiterRoleID' => 5,
+    'RecruiterPhoneNumber' => '255766122312',
+    'RecruiterNIN' => '19900709332120000127',
+    'FingerCode' => 'R3',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  

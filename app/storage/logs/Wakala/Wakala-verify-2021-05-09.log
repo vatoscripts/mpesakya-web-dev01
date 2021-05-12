@@ -1,0 +1,30 @@
+[2021-05-09 21:16:46] production.DEBUG: array (
+  'user' => 'magaa001',
+  'Request' => 
+  array (
+    'UserID' => 2296,
+    'MpesaAgentID' => 38418,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-09 21:19:05] production.DEBUG: array (
+  'user' => 'magaa001',
+  'Request' => 
+  array (
+    'UserID' => 2296,
+    'MpesaAgentID' => 38417,
+    'VerificationStatus' => 2,
+    'RejectComment' => NULL,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  

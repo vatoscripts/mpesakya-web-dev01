@@ -1,0 +1,132 @@
+[2021-05-07 10:26:32] production.DEBUG: array (
+  'Request' => 
+  array (
+    'UserID' => 2555,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 10:27:29] production.DEBUG: array (
+  'Request' => 
+  array (
+    'UserID' => 2984,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 12:27:24] production.DEBUG: array (
+  'Request' => 
+  array (
+    'UserID' => 1290,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 12:29:20] production.DEBUG: array (
+  'Request' => 
+  array (
+    'UserID' => 1171,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 12:41:05] production.DEBUG: array (
+  'Request' => 
+  array (
+    'UserID' => 2650,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 14:09:41] production.DEBUG: array (
+  'Request' => 
+  array (
+    'UserID' => 2650,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 15:36:47] production.DEBUG: array (
+  'Request' => 
+  array (
+    'UserID' => 2944,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 15:44:31] production.DEBUG: array (
+  'Request' => 
+  array (
+    'UserID' => 2658,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 16:08:25] production.DEBUG: array (
+  'Request' => 
+  array (
+    'UserID' => 2933,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 17:09:39] production.DEBUG: array (
+  'Request' => 
+  array (
+    'UserID' => 2751,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 17:38:18] production.DEBUG: array (
+  'Request' => 
+  array (
+    'UserID' => 1171,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 17:48:27] production.DEBUG: array (
+  'Request' => 
+  array (
+    'UserID' => 1171,
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  

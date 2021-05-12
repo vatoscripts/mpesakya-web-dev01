@@ -1,0 +1,32 @@
+[2021-05-07 15:14:05] production.DEBUG: array (
+  'user' => '255744531783',
+  'Request' => 
+  array (
+    'UserID' => 2751,
+    'RecruiterRoleID' => 5,
+    'RecruiterPhoneNumber' => '255756292100',
+    'RecruiterNIN' => '19810305332070000114',
+    'FingerCode' => 'R1',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  
+[2021-05-07 17:08:45] production.DEBUG: array (
+  'user' => '255744531783',
+  'Request' => 
+  array (
+    'UserID' => 2751,
+    'RecruiterRoleID' => 5,
+    'RecruiterPhoneNumber' => '255745790790',
+    'RecruiterNIN' => '19880622394120000223',
+    'FingerCode' => 'R1',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => NULL,
+  ),
+)  

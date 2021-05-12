@@ -1,0 +1,150 @@
+/* CUSTOM CSS FOR THEME */
+
+@font-face {
+    font-family: VodafoneFont;
+    src: url(../../fonts/VodafoneFonts/VodafoneRg-Regular.ttf);
+}
+
+body {
+    font-family: "VodafoneFont", sans-serif;
+    font-size: 15px;
+}
+
+.navbar-nav .nav-item a,
+.user-block-info .user-block-role a {
+    color: #fff !important;
+    text-decoration: none !important;
+    font-size: 1.1em;
+    font-weight: bold;
+}
+
+.register-footer {
+    margin-top: 50px;
+}
+
+.register-footer button {
+    margin-right: 20px;
+}
+
+#agent_register .modal-footer {
+    margin-top: 5rem;
+    padding-top: 1em;
+}
+
+body .whirl.traditional::after {
+    border-right-color: #23b7e5;
+    border-top-color: #23b7e5;
+    border-left-color: #7266ba;
+    border-bottom-color: #fad732;
+}
+
+.whirl::after {
+    height: 70px;
+    width: 70px;
+}
+
+#staff_verify_modal .form-check-input {
+    position: static;
+    margin-top: 0 !important;
+    margin-left: 0 !important;
+    margin-right: 1em;
+}
+
+.content-heading .lead {
+    font-size: 1rem;
+}
+
+.staff-details .card-header {
+    background-color: rgba(0, 0, 0, 0.03) !important;
+}
+
+#staffOnboard .form-check-input {
+    margin-left: 100px;
+}
+
+.sidebar-nav > li > span {
+    position: relative;
+    display: block;
+    padding: 12px 24px;
+    letter-spacing: 0.025em;
+    font-weight: normal;
+    cursor: pointer;
+}
+
+.badge {
+    font-weight: 300 !important;
+}
+
+#divekycTreview ul li {
+    list-style: none;
+}
+
+#divekycTreview {
+    overflow-y: scroll;
+    height: 400px;
+}
+
+#userManagementList {
+    overflow-y: scroll;
+    height: 500px;
+}
+
+.modal-footer {
+    border-top: none;
+}
+
+#reRegisterMSISDNForm .modal-footer {
+    margin-top: 60px;
+}
+
+.swal-text {
+    text-align: center;
+    font-size: 1.25rem;
+    font-weight: 300;
+}
+
+#customer-details .lead {
+    font-size: 14px;
+}
+
+#customer-details .lead .row:nth-child(even) {
+    background-color: #f2f2f2;
+    line-height: 35px;
+}
+
+/* #login .lead {
+    font-size: .85rem;
+    font-weight: 300;
+} */
+
+.wd-xl {
+    width: 360px;
+}
+
+.btn-lg,
+.btn-group-lg > .btn {
+    padding: 0.5rem 2rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    border-radius: 0.3rem;
+}
+
+.modal-backdrop {
+    display: none;
+}
+
+.router-link-exact-active,
+.router-link-active {
+    font-weight: 700;
+}
+.vue-scrollbar[data-v-07dcb8b4] {
+    height: auto !important;
+}
+
+.v-table-dynamic[data-v-6dd509c6] {
+    font-family: "VodafoneFont", sans-serif !important;
+    font-size: 15px !important;
+}
+.vue-scroll-view[data-v-07dcb8b4] {
+    min-height: unset;
+}
