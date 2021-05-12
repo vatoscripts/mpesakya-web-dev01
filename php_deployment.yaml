@@ -22,7 +22,7 @@ spec:
           path: /sorc
       containers:
       - name: php
-        image: kiyange26773/mpesakya-web-dev
+        image: kiyange26773/mpesakya-web-dev:v1.0
         volumeMounts:
         - name: dir
           mountPath: /sorc
