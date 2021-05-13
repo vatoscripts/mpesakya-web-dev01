@@ -19,21 +19,21 @@ spec:
       volumes:
       - name: dir
         hostPath:
-          path: /sorc
+          path: /source
       containers:
       - name: php
-        image: kiyange26773/mpesakyawebappdev:latest
+        image: kiyange26773/mpesakyawebappdev:v1
         volumeMounts:
         - name: dir
-          mountPath: /sorc
+          mountPath: /source
       initContainers:
       - name: install
         image: busybox
         volumeMounts:
         - name: dir
-          mountPath: /sorc
+          mountPath: /source
         command:
         - cp
         - "-r"
         - "/var/www/."
-        - "/sorc/app"
+        - "/source/app"

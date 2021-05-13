@@ -20,7 +20,7 @@ spec:
       volumes:
       - name: dir
         hostPath:
-          path: /sorc
+          path: /source
       - name: config
         configMap:
           name: nginx-config
@@ -32,7 +32,7 @@ spec:
         image: nginx
         volumeMounts:
         - name: dir
-          mountPath: /sorc
+          mountPath: /source
         - name: config
           mountPath: /etc/nginx/conf.d
         ports:
